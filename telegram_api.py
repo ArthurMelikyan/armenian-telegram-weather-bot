@@ -1,4 +1,5 @@
 import telebot,pyowm
+
 from pyowm.exceptions import api_response_error
 
 bot = telebot.TeleBot("855506609:AAE1CIDCHLbnMhB3ROrZWnQ8vHDBRc8sq_Y")
