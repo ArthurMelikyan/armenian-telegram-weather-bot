@@ -1,4 +1,3 @@
-
 import pyowm
 
 apikey = "c718050391a59ccb7807ec04f907427f"
