@@ -2,8 +2,8 @@ import telebot,pyowm
 
 from pyowm.exceptions import api_response_error
 
-bot = telebot.TeleBot("855506609:AAE1CIDCHLbnMhB3ROrZWnQ8vHDBRc8sq_Y")
-apikey = "c718050391a59ccb7807ec04f907427f"
+bot = telebot.TeleBot("___")
+apikey = "___"
 owm = pyowm.OWM(apikey) 
 
 @bot.message_handler(content_types=['text'])
